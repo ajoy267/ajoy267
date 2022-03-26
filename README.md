@@ -24,5 +24,4 @@
 
 <h2 align="center">Looking to Contact Me?</h2>
 <p>Email: <a href = "mailto: ajoy267@gmail.com">ajoy267@gmail.com</a></p>
-<br>
 <p>LinkedIn: <a href = "https://www.linkedin.com/in/andrewjoy12/">linkedin.com/in/andrewjoy12</a></p>
