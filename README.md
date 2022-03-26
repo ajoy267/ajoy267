@@ -22,6 +22,6 @@
     <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ajoy267&show_icons=true&theme=tokyonight" />
 </p>
 
-<h2 align="center">Looking to Contact Me?</h2>
+<h2 align="center">Looking to Get In Touch?</h2>
 <p>Email: <a href = "mailto: ajoy267@gmail.com">ajoy267@gmail.com</a></p>
 <p>LinkedIn: <a href = "https://www.linkedin.com/in/andrewjoy12/">linkedin.com/in/andrewjoy12</a></p>
