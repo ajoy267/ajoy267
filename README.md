@@ -1,3 +1,7 @@
+<h2>Hi Everyone!</h2>
+
+<p>I'm Andrew and I'm a software engineer and an athlete. Athletics has been such a big part of my life since I was a kid and I love helping others get involved in sports. My passion is to help make athletics more accessible to everyone and to use my skills as a software engineer to do that. </p>
+
 <h3>Languages & Tools</h3>
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
