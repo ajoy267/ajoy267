@@ -23,7 +23,6 @@
 </p>
 
 <h2>Looking to Contact Me?</h2>
-<hr>
 Email: <a href = "mailto: ajoy267@gmail.com">ajoy267@gmail.com</a>
 <br>
 LinkedIn: <a href = "https://www.linkedin.com/in/andrewjoy12/">linkedin.com/in/andrewjoy12</a>
