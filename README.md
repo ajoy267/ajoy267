@@ -2,7 +2,7 @@
 
 <p align="center">I'm Andrew and I'm a software engineer and an athlete. Athletics has been<br> such a big part of my life since I was a kid and I love helping others get<br> involved in sports. My passion is to help make athletics more accessible to<br> everyone and to use my skills as a software engineer to do that. </p>
 
-<h3>Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -21,3 +21,9 @@
 <p align="center">
     <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ajoy267&show_icons=true&theme=tokyonight" />
 </p>
+
+<h2>Looking to Contact Me?</h2>
+<hr>
+Email: <a href = "mailto: ajoy267@gmail.com">ajoy267@gmail.com</a>
+<br>
+LinkedIn: <a href = "https://www.linkedin.com/in/andrewjoy12/">linkedin.com/in/andrewjoy12</a>
